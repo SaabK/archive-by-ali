@@ -68,10 +68,10 @@ function r(name, cat, desc, url){ return { name, cat, desc, url }; }
 const FEATURED_NAMES = ['NASA Technical Reports Server','MIT OpenCourseWare','OpenVSP','XFLR5','Raymer Resources','OpenFOAM'];
 
 const SENIOR_FOLDERS = [
-  { name:'Senior\'s Drive for 1st Semester', desc:'Capstone project files & final design reports.', url:'#' },
-  { name:'Senior\'s Drive for 2nd Semester', desc:'Structures coursework, FEA models, and homework sets.', url:'#' },
+  { name:'Senior\'s Drive for 1st Semester', desc:'Capstone project files & final design reports.', url:'https://drive.google.com/drive/folders/1Bv6uSKbuUhh8LlCyi6EjRAhV-7jBISk5' },
+  { name:'Senior\'s Drive for 2nd Semester', desc:'Structures coursework, FEA models, and homework sets.', url:'https://drive.google.com/drive/u/0/folders/1fwrrr6o_X40qEBmtwQUWMe83vRJXk6Ib' },
   { name:'Senior\'s Drive for 3rd Semester', desc:'Propulsion lab reports and turbine cycle analyses.', url:'https://drive.google.com/drive/folders/1sDHCr1ed38PvZPFx7n1e7n6T5FP--e-z' },
-  { name:'Senior\'s Drive for 4th Semester', desc:'CFD case files and simulation setup templates.', url:'#' },
+  { name:'Senior\'s Drive for 4th Semester', desc:'CFD case files and simulation setup templates.', url:'https://drive.google.com/drive/folders/1Y8mvJp7o7YAAODXyp1zEM5-s3iPvMKOt?dmr=1&ec=wgc-drive-hero-goto' },
 ];
 
 const LINKS_DIRECTORY = {
